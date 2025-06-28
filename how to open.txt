@@ -1,0 +1,4 @@
+in execution file open mataam.exe
+
+
+if you want a username and password you find it in document.pdf (you find it in execution file as "mataamDocument")
